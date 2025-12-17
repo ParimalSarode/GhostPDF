@@ -1,0 +1,6 @@
+streamlit
+pypdf             # For Merging/Splitting
+pymupdf           # (fitz) For Compression/Analysis
+pdf2image         # For PDF -> Image conversion
+Pillow            # For Image -> PDF conversion
+img2pdf
